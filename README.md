@@ -1,13 +1,6 @@
 ## Hello, This is Tanmay
 
 
-🧑‍🎓 I'm a B.Tech student with a passion for tech and problem-solving. </br>
-🧠 I have a year of hands-on coding experience through self-learning. </br>
-💻 I've worked with C, C++, a bit of Python, and have some knowledge of SQL. </br>
-🚀 Currently exploring Data Structures & Algorithms and Web Development.</br>
-🌱 Always eager to learn, grow, and build cool stuff!</br>
-
-
 # 💫 About Me:
 🧑‍🎓 I'm a B.Tech student with a passion for tech and problem-solving. <br>🧠 I have a year of hands-on coding experience through self-learning. <br>💻 I've worked with C, C++, a bit of Python, and have some knowledge of SQL. <br>🚀 Currently exploring Data Structures & Algorithms and Web Development.<br>🌱 Always eager to learn, grow, and build cool stuff!
 
